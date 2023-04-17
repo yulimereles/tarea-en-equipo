@@ -9,14 +9,14 @@ body {
 
 /* Estilos del encabezado */
 header {
-	background-color: #f0f0f0;
+	background-color: #8c7a84;
 	padding: 20px;
 }
 
 /* Estilos de la barra de navegación */
 nav {
-	background-color: #333;
-	color: #fff;
+	background-color: #7b908b;
+	color: #890a61;
 	padding: 10px;
 }
 
@@ -34,7 +34,7 @@ nav ul li {
 }
 
 nav ul li a {
-	color: #fff;
+	color: #833a6c;
 	text-decoration: none;
 }
 
@@ -45,8 +45,8 @@ section {
 
 /* Estilos del pie de página */
 footer {
-	background-color: #333;
-	color: #fff;
+	background-color: #c074a2;
+	color: #751250;
 	padding: 20px;
 	text-align: center;
 }
